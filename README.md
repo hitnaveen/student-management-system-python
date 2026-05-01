@@ -1,5 +1,5 @@
 # student-management-system-python
-# Student Management System
+
 
 A simple system for storing and managing student details, including name, roll number, school, and class.
 
