@@ -3,14 +3,14 @@
 
 A simple system for storing and managing student details, including name, roll number, school, and class.
 
----
+
 
 ## Description
 
 This project allows users to enter student details and manage them through a simple menu-driven program.
 Users can also update existing student information by giving new input when required.
 
----
+
 
 ## Features
 
@@ -18,13 +18,13 @@ Users can also update existing student information by giving new input when requ
 * View all student records
 * Update student details using user input
 
----
+
 
 ## Tech Used
 
 * Language: Python
 
----
+
 
 ## How to Run
 
@@ -36,7 +36,7 @@ Users can also update existing student information by giving new input when requ
 python student_management_system.py
 ```
 
----
+
 
 ## Purpose
 
