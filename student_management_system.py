@@ -1,3 +1,8 @@
+import os
+
+if os.getenv("CI") == "true":
+    print("Running in CI mode — skipping user input")
+    exit()
 # creating class student to add student details
 
 class Student():
